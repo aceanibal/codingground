@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int rectangle(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
     int i;
     int b;
